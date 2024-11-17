@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Shoaib-Rashid 21 year college droupout. Now exploring Computer Science. **11/17/2024**
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning Python, Math, and SQL
+- 💞️ I’m a learner from another field and now exploring data because of my pation.
+- 📫 Shoaibbadshah52@gmail.com
+- 😄 Pronouns: Naqaabposh
+- ⚡ Fun fact: A data scientist spends 80% of their time cleaning data and 20% of their time finding insights. But the real magic happens when you realize that the 80% is where the majority of the learning takes place!
